@@ -16,10 +16,10 @@
 - Art
 - Health and Physical Education
 - Technology and Home Economics
-- Foreign Language
+- English Language
 - Moral Education
 - Integrated Study Time
-- Special Activies
+- Special Activities
 です。成績は1,2,3,4,5 の5段階評価。1が劣、5が優。CSVファイルを作成。
 ```
 # 出力結果
