@@ -23,4 +23,4 @@
 です。成績は1,2,3,4,5 の5段階評価。1が劣、5が優。CSVファイルを作成。
 ```
 # 出力結果
-[Student_Grades_by_8th_graders.csv](/workspaces/GenAI-Open-Edu-Analytics/GeneratedEduData/Student_Grades_by_8th_graders.csv)
+[Student_Grades_by_8th_graders.csv](https://github.com/hisahonakata/GenAI-Open-Edu-Analytics/blob/main/GeneratedEduData/Student_Grades_by_8th_graders.csv)
